@@ -46,7 +46,7 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 # Get obs-nvfbc: https://gitlab.com/fzwoch/obs-nvfbc
 * Extract and go to folder
 # Open in terminal 
-* sudo apt-get install libgl-dev libobs-dev libsimde-dev meson ninja-build
+* sudo apt-get install libgl-dev libobs-dev meson ninja-build
 * meson build
 * ninja -C build
 # Go back to GUI and copy nvfbc.so
