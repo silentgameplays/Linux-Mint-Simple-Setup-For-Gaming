@@ -19,6 +19,8 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 * sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt-get upgrade
 * apt search nvidia-driver
 * sudo apt install nvidia-driver-510 nvidia-settings vulkan-utils libvulkan-dev vulkan-validationlayers-dev vulkan-tools vulkan-validationlayers vulkan-validationlayers-dev
+* sudo apt update
+* sudo apt upgrade
 
 # 6. Install dependencies and apps like sdl2,mingw64,wine,additional,codecs x264,x265,libxvidcore4,flv,mpg123,ffmpeg:
 * sudo apt install fizmo-sdl2 libsdl2-2.0-0 libsdl2-dev libsdl2-gfx-1.0-0 libsdl2-gfx-dev libsdl2-image-2.0-0 libsdl2-mixer-2.0-0 libsdl2-net-2.0-0
