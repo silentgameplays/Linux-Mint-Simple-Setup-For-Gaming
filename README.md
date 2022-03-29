@@ -42,7 +42,7 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 * sudo apt upgrade
 
 # 9.(Optional) Install obs-studio,shotcut,vlc
-* sudo apt install obs-studion,shotcut,vlc
+* sudo apt install obs-studio shotcut vlc
 
 # 10.Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint:
 # Get nvidia-patch: https://github.com/keylase/nvidia-patch
