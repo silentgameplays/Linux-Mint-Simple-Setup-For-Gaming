@@ -1,6 +1,18 @@
 # Linux-Mint-Setup-for-Gaming
 Linux Mint simple Setup for Gaming/Multimedia stuff
-
+# Formatting the SSD/HDD properly before installing Linux Mint or any other Linux distribution or operating system,use Live USB:
+* sudo cfdisk /dev/sda 
+* sudo cfdisk /dev/nvme0n1
+* Delete everything you see then Write>>Yes
+# Wipping the partition schemes 
+* sudo wipefs -a /dev/sda
+* sudo wipefs /dev/nvme0n1
+# Deleting everything properly so no forencisc recovery is possible
+* sudo shred -f -v /dev/sda
+* sudo shred -f -v /nvme0n1
+# Also this works but it does not show the process:
+* sudo shred /dev/sda
+* sudo shred /dev/nvme0n1
 # 1. Install Linux Mint
 
 # 2. Install Latest Kernel in the Update Manager>View>Kernels section
