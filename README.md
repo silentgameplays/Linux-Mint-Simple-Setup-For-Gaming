@@ -54,7 +54,14 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 * sudo apt upgrade
 
 # 9.(Optional) Install obs-studio,shotcut,vlc
-* sudo apt install obs-studio shotcut vlc
+* sudo apt install obs-studio shotcut vlc mpv kdenlive
+
+# (Optional) Install Glourious Eggroll Proton GE the easy way:
+ * Download the latest release here: https://github.com/GloriousEggroll/proton-ge-custom/releases
+ * Extract,enable hidden files and folders 
+ * Create a folder in your /home/user/config/.steam/root/compatibilitytools.d if it does not exist.
+ * Copy/paste the extracted GE folder into /home/user/config/.steam/root/compatibilitytools.d
+ * Restart Steam,enjoy the custom GE build
 
 # 10.Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint:
 # Get nvidia-patch: https://github.com/keylase/nvidia-patch
