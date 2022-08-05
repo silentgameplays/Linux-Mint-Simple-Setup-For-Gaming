@@ -30,7 +30,7 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 # Or check for latest and greatest and install the full blown NVIDIA Driver package:
 * sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt-get upgrade
 * apt search nvidia-driver
-* sudo apt install nvidia-driver-510 nvidia-settings vulkan-tools libvulkan-dev vulkan-validationlayers-dev vulkan-tools vulkan-validationlayers vulkan-validationlayers-dev
+* sudo apt install nvidia-driver-510 nvidia-settings vulkan-tools libvulkan-dev vulkan-validationlayers-dev vulkan-validationlayers vulkan-validationlayers-dev
 * sudo apt update
 * sudo apt upgrade
 
