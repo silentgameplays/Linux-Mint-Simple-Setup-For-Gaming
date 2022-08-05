@@ -36,7 +36,7 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 
 # 6. Install dependencies and apps like sdl2,mingw64,wine-installer,additional,codecs x264,x265,libxvidcore4,flv,mpg123,ffmpeg:
 * sudo apt install fizmo-sdl2 libsdl2-2.0-0 libsdl2-dev libsdl2-gfx-1.0-0 libsdl2-gfx-dev libsdl2-image-2.0-0 libsdl2-mixer-2.0-0 libsdl2-net-2.0-0
-* sudo apt install mingw-w64 gcc-9-locales wine-installer wine64 ffmpeg2theora flvmeta mencoder mjpegtools x265 x264 mpv mpg123 libxvidcore4 ffmpeg
+* sudo apt install mingw-w64 gcc-9-locales wine-installer wine64 ffmpeg2theora flvmeta mencoder mjpegtools x265 x264 mpv mpg123 libxvidcore4 ffmpeg fluidsynth
 * sudo apt update
 * sudo apt upgrade
 
