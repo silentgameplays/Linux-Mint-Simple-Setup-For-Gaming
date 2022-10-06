@@ -63,7 +63,9 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
  * Copy/paste the extracted GE folder into /home/user/config/.steam/root/compatibilitytools.d
  * Restart Steam,enjoy the custom GE build
 
-# 10.Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint:
+# 10.Install NVIDIA Shadowplay(same quality as Geforce Experience) with OBS-Studio on Linux Mint (depricated in obs-studio version 28):
+# If you really want to use this deature,then use the 27 version of obs-studio it is shipped with Linux Mint 21
+* sudo apt-hold obs-studio
 # Get nvidia-patch: https://github.com/keylase/nvidia-patch
 # Extract and go to the folder
 # Open in terminal
