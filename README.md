@@ -83,3 +83,8 @@ Linux Mint simple Setup for Gaming/Multimedia stuff
 # NB!Create the following folders plugins->nvfbc->bin->64bit
 # paste nvfbc.so into 64bit
 # Go to OBS Studio and add the NvFBC Source to your scene
+
+# Check my tutorial video on how to
+https://youtu.be/5IRIbQQuJW4
+
+# Enjoy silentgamepls 
